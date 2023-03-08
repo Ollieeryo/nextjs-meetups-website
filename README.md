@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-You can browse and add new meetups with details and loaction.
+
+This a meetups website that you can browse and add new meetups with details and loaction.
 
 ## Getting Started
 
